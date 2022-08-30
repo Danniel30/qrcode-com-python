@@ -21,3 +21,4 @@ for valor, info in redes_sociais.items():  # A função items do dicionário vai
 
 imagem_qrcode = qrcode.make("https://github.com/Danniel30")
 img.show()  # A função 'show' exibe o qrcode em uma nova janela
+
